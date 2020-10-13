@@ -2,7 +2,7 @@
 
 # چگونه من سیستم ها و ابزارهای خودم رو نامگذاری میکنم؟
 
-![virgoolPost](https://user-images.githubusercontent.com/25862601/95866412-be007300-0d74-11eb-9a5b-8c1d52448ba0.png)
+![virgoolPost](https://user-images.githubusercontent.com/25862601/95878568-3ae61980-0d82-11eb-8e36-c9d71588f537.png)
 
 امروز اومدم یک مطلب بسیار جذاب رو با هم شروع کنیم که کمتر بهش پرداخته شده و یا کسی دوست نداشته راز خودش رو بگه
 
